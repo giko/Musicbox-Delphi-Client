@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.156,=C:\Documents and Settings\TERMIN@TOR\Мои документы\Мои программы\XrenoDerian\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,=C:\Users\TNR\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,C:\Users\TNR\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\TNR\Documents\Мои программы\XrenoDerian\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,C:\Documents and Settings\TERMIN@TOR\Мои документы\Мои программы\XrenoDerian\SearchUnit.fmx=C:\Documents and Settings\TERMIN@TOR\Мои документы\Мои программы\XrenoDerian\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,C:\Documents and Settings\TERMIN@TOR\Мои документы\Мои программы\XrenoDerian\SearchUnit.pas=C:\Documents and Settings\TERMIN@TOR\Мои документы\Мои программы\XrenoDerian\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,C:\Users\TNR\Documents\RAD Studio\Projects\Unit1.fmx=C:\Users\TNR\Documents\Мои программы\XrenoDerian\MainUnit.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,C:\Users\TNR\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\TNR\Documents\Мои программы\XrenoDerian\Client.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

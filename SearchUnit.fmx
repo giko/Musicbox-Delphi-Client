@@ -1,0 +1,51 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  BorderStyle = bsNone
+  ClientHeight = 431
+  ClientWidth = 275
+  Transparency = True
+  Visible = False
+  OnClose = FormClose
+  OnActivate = FormActivate
+  OnDeactivate = FormDeactivate
+  StyleLookup = 'backgroundstyle'
+  object COP: TCalloutPanel
+    Width = 249.000000000000000000
+    Height = 89.000000000000000000
+    Opacity = 0.899999976158142100
+    TabOrder = 0
+    CalloutWidth = 23.000000000000000000
+    CalloutLength = 11.000000000000000000
+    object Edit1: TEdit
+      Position.Point = '(24,56)'
+      Width = 100.000000000000000000
+      Height = 22.000000000000000000
+      TabOrder = 0
+      KeyboardType = vktDefault
+      Password = False
+    end
+    object Button1: TButton
+      Position.Point = '(136,56)'
+      Width = 80.000000000000000000
+      Height = 22.000000000000000000
+      TabOrder = 1
+      Text = #1055#1086#1080#1089#1082
+    end
+    object ShadowEffect1: TShadowEffect
+      Distance = 3.000000000000000000
+      Direction = 45.000000000000000000
+      Softness = 0.400000005960464500
+      Opacity = 0.600000023841857900
+      ShadowColor = claGray
+    end
+    object FA1: TFloatAnimation
+      Duration = 0.500000000000000000
+      Interpolation = itExponential
+      StartValue = 89.000000000000000000
+      StopValue = 330.000000000000000000
+      PropertyName = 'Height'
+    end
+  end
+end
